@@ -1,0 +1,43 @@
+{
+	"name": "phantom",
+	"displayName": "Phantom Code",
+	"description": "Dark and non-distractive VS Code theme. The minimal set of colors that we all wanted.",
+	"version": "0.0.1",
+	"publisher": "tourervit",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tourervit/phantom-vscode-theme"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Phantom",
+		"Night Theme"
+	],
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#282C34",
+		"theme": "dark"
+	},
+	"icon": "phantom-icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Phantom",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Phantom-color-theme.json"
+			},
+			{
+				"label": "Phantom Non Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Phantom-color-theme-non-italic.json"
+			}
+		]
+	}
+}
