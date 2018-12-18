@@ -3,10 +3,10 @@
 Dark and non-distractive VS Code theme. The minimal set of colors that we all wanted.
 
 <div align="center">
-	<img src="./screenshots/react.png" alt="React"/>
-	<img src="./screenshots/html.png" alt="HTML"/>
-	<img src="./screenshots/css.png" alt="CSS"/>
-	<img src="./screenshots/php.png" alt="PHP"/>
+	<img src="https://raw.githubusercontent.com/tourervit/phantom-vscode-theme/master/screenshots/react.png" alt="React"/>
+	<img src="https://raw.githubusercontent.com/tourervit/phantom-vscode-theme/master/screenshots/html.png" alt="HTML"/>
+	<img src="https://raw.githubusercontent.com/tourervit/phantom-vscode-theme/master/screenshots/css.png" alt="CSS"/>
+	<img src="https://raw.githubusercontent.com/tourervit/phantom-vscode-theme/master/screenshots/php.png" alt="PHP"/>
 </div>
 
 # Installation
