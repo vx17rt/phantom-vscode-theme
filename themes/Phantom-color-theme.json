@@ -124,7 +124,7 @@
 		"activityBar.border": "#1d2027",
 		"activityBar.dropBackground": "#282C34",
 		"activityBarBadge.background": "#FFE3A9",
-		"activityBarBadge.foreground": "#dfe1e8",
+		"activityBarBadge.foreground": "#282C34",
 		"sideBar.background": "#21252d",
 		"sideBarTitle.foreground": "#a7adba",
 		"sideBarSectionHeader.background": "#2f373f",
