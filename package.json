@@ -2,7 +2,7 @@
 	"name": "phantom",
 	"displayName": "Phantom Code",
 	"description": "Dark and non-distractive VS Code theme. The minimal set of colors that we all wanted.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "tourervit",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"repository": {
