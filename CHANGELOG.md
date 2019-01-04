@@ -2,6 +2,14 @@
 
 All notable changes to the "phantom" extension will be documented in this file.
 
+### 1.0.2
+
+- PeekView title, border fix
+
+### 1.0.1
+
+- Fix for ansiBrightBlue color because of terminal issue
+
 ### 1.0.0
 
 -   New <tag> & <Component/>'s entities colors
