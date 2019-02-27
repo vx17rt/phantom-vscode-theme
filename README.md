@@ -16,27 +16,31 @@ Dark and non-distractive VS Code theme. The minimal set of colors that we all wa
 3.  Choose **Preferences/Extensions** from menu.
 4.  Search for `phantom code`.
 5.  Click **Install** to install it.
-6.  Click **Reload** to reload VS Code.
-7.  Code > Preferences > Color Theme > **Phantom**
-
-## Non Italic
-
-If you hate italics, there is now a no-italic theme available (comments still will be italic). Select **Phantom Non Italic** as your color theme.
+6.  Code > Preferences > Color Theme > **Phantom**
 
 ## Preferences shown in the preview
 
-The font in the preview image is Operator Mono. Also looks great with Fira Code.
-Icons: Monokai Classic Monochrome Icons
+The font in the preview image is Dank Mono. Also looks great with Operator Mono, Fira Code.
+Icons: Seti (Visual Studio Code)
 
 ```
-"workbench.editor.showIcons": false,
+"editor.fontSize": 17,
+"editor.fontFamily": "Dank Mono",
+"editor.lineHeight": 32,
+"editor.letterSpacing": -0.8,
+"editor.tabSize": 4,
+"editor.cursorStyle": "line",
+"editor.cursorWidth": 1,
+"editor.cursorBlinking": "solid",
 "editor.glyphMargin": false,
 "editor.minimap.enabled": false,
 "editor.renderLineHighlight": "all",
 "editor.selectionHighlight": false,
-"workbench.activityBar.visible": false,
+"workbench.editor.tabCloseButton": "off",
+"window.zoomLevel": 0.2,
+"window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
 ```
 
-### Inspiration
+## Non Italic
 
-[Base16 Ocean Dark Theme Extended](https://marketplace.visualstudio.com/items?itemName=kleber-swf.ocean-dark-extended)
+If you hate italics, there is now a no-italic theme available (comments still will be italic). Select **Phantom Non Italic** as your color theme.

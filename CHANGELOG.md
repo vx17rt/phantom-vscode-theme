@@ -2,6 +2,11 @@
 
 All notable changes to the "phantom" extension will be documented in this file.
 
+### 1.1.1
+
+-   tags begin/end have changed their color
+-   added highlightings on css properties
+
 ### 1.1.0
 
 -   return keyword has the same color as import, const, etc.
