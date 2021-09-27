@@ -1,3 +1,7 @@
+[![Version](https://vsmarketplacebadge.apphb.com/version/tourervit.phantom.svg)](https://marketplace.visualstudio.com/items?itemName=tourervit.phantom)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/tourervit.phantom.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=tourervit.phantom)
+[![Downloads](https://img.shields.io/vscode-marketplace/r/tourervit.phantom.svg)](https://marketplace.visualstudio.com/items?itemName=tourervit.phantom)
+
 # Phantom 🏴
 
 Dark and non-distractive VS Code theme. The minimal set of colors that we all wanted.
